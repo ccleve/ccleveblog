@@ -1,0 +1,48 @@
+baseURL = "https://ccleve.com/"
+languageCode = "en-us"
+title = "Chris Cleveland's Blog"
+theme="anatole"
+
+[params]
+title = "Chris Cleveland"
+author = "Chris Cleveland"
+description = "Software developer, conservative."
+profilePicture = "images/Chris_square.jpg"
+doNotLoadAnimations = true
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/clevelandchris/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/ccleve"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+#  [[menu.main]]
+#  name = "Contact"
+#  weight = 400
+#  identifier = "contact"
+#  url = "/contact/"
