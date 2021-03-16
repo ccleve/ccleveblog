@@ -4,7 +4,7 @@ title = "Before We Take Down Abraham Lincoln, How About Paddy Bauler?"
 date = "2021-03-16"
 +++
 
-The Chicago Monuments Committee recently met for the first time. [Their agenda](https://chicagomonuments.org/about) is to examine monuments for "white supremacy", individuals with "connections to racist acts" and artworks that are "creating tension between people". They have identified "problematic" monuments, include statues of [Abraham Lincoln and Ulysses Grant](https://chicagomonuments.org/monuments), for removal.
+The Chicago Monuments Committee recently met for the first time. [Their agenda](https://chicagomonuments.org/about) is to examine monuments for "white supremacy", "connections to racist acts" and "creating tension between people". They have identified "problematic" monuments, include statues of [Abraham Lincoln and Ulysses Grant](https://chicagomonuments.org/monuments), for removal.
 
 Mayor Lightfoot formed the committee and will likely follow its recommendations. She has already removed statues of Christopher Columbus.
 
