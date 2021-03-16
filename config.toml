@@ -2,6 +2,7 @@ baseURL = "https://ccleve.com/"
 languageCode = "en-us"
 title = "Chris Cleveland's Blog"
 theme="anatole"
+publishdir="./docs"
 
 [params]
 title = "Chris Cleveland"
@@ -9,6 +10,7 @@ author = "Chris Cleveland"
 description = "Software developer, conservative."
 profilePicture = "images/Chris_square.jpg"
 doNotLoadAnimations = true
+fullPostContent = true
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"

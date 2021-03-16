@@ -40,3 +40,7 @@ In 1984, Chris graduated from **Princeton University**, where he studied politic
 #### Professional
 
 Chris owns Dieselpoint, Inc., a Chicago-based software company. Dieselpoint supplies Enterprise Search software to a number of Fortune 500 companies, including Nielsen, Porsche, McGraw-Hill, and Northrop Grumman.
+
+#### Contact
+
+Email chris (at) ccleve (dot) com
