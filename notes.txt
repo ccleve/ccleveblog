@@ -17,3 +17,7 @@ To update the Anatole theme:
 
 git submodule update --remote --merge
 
+
+
+
+
